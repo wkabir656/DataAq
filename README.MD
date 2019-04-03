@@ -7,7 +7,7 @@ you first need to install the Teensyduino add-on and libraries.
 The link can be found by searching Google for Teensyduino.
 
 After installing Teensyduino and the relevant libraries, the Sparkfun LSM6DS3 IMU
-library from this respository needs to be installed from this library too. 
+library from this respository needs to be installed too. 
 Note for this library, it is configured using a Wire1 libraries on the Teensyduino,
 and is configured for IMUs on the SCL1 and SDA1 ports, not the SCL0 and SDA0 ports. 
 For more information on the code itself, see the comments and GTOR documentation. 
