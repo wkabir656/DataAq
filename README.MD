@@ -1,4 +1,4 @@
-This is our current data acquisition software file respository, written for Arduino
+This is our current data acquisition software file respository, written for Arduino.
 A couple notes on what it does and what libraries are needed:
 In short, the code collects data from inertial measurement units, linear displacement
 sensors, and RPM sensors. It takes that data and writes onto an SD card.
